@@ -10,11 +10,12 @@ User Authentication: Secure user authentication and authorization mechanisms to 
 Reservation Management: Detailed reservation information, including passenger details and flight itinerary, is accessible. 
 
 RESTful API Integration: The backend exposes RESTful APIs, enabling seamless integration with external services or future expansion.
+![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
 ![Update your bags on check_in 7](https://github.com/adarsh03108/flight_reservation/assets/155520119/5d9b76e0-b685-45e0-8774-62858fe6f86a)
 ![Update and Boarding is confirm 8](https://github.com/adarsh03108/flight_reservation/assets/155520119/d10bfb43-8209-4afe-b3a1-fc4f767c952e)
 ![start_check_in 6](https://github.com/adarsh03108/flight_reservation/assets/155520119/e146f77d-c2e9-4b11-91db-415434725e91)
 ![list_of_flights 3](https://github.com/adarsh03108/flight_reservation/assets/155520119/aadcdfd0-4a9a-4b1d-9ec7-b2e25f6fe7d7)
-![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
+
 ![find_flights 2](https://github.com/adarsh03108/flight_reservation/assets/155520119/8175a224-29fa-4b7b-acbc-18de595f6ca7)
 ![Enter Passanger Details 4](https://github.com/adarsh03108/flight_reservation/assets/155520119/8ac2b456-3d45-407c-873f-54a8d4279de4)
 
