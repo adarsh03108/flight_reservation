@@ -11,8 +11,6 @@ Reservation Management: Detailed reservation information, including passenger de
 
 There are some Screenshots of these Project:- 
 
-
-RESTful API Integration: The backend exposes RESTful APIs, enabling seamless integration with external services or future expansion.
 ![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
 ![start_check_in 6](https://github.com/adarsh03108/flight_reservation/assets/155520119/e146f77d-c2e9-4b11-91db-415434725e91)
 ![list_of_flights 3](https://github.com/adarsh03108/flight_reservation/assets/155520119/aadcdfd0-4a9a-4b1d-9ec7-b2e25f6fe7d7)
