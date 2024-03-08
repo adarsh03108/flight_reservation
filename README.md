@@ -9,7 +9,7 @@ User Authentication: Secure user authentication and authorization mechanisms to 
 
 Reservation Management: Detailed reservation information, including passenger details and flight itinerary, is accessible. 
 
-There are some Screenshots of these Project:- 
+There are some Screenshots of this Project:- 
 
 ![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
 ![start_check_in 6](https://github.com/adarsh03108/flight_reservation/assets/155520119/e146f77d-c2e9-4b11-91db-415434725e91)
