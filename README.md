@@ -1,16 +1,11 @@
  The Flight Reservation App is a robust and user-friendly platform developed using Java technologies and modern frameworks.
  It employs Spring Boot for rapid application development, Hibernate JPA for seamless database interaction, and RESTful APIs for flexible communication between the frontend and backend. 
  The application utilizes MySQL as the database backend for storing flight details, user information, and reservation data. 
- 
 KEY FEATURES:  
-Flight Search and Booking: Users can easily search for flights based on departure and arrival locations, along with flexible date     and  time options.  
-
-User Authentication: Secure user authentication and authorization mechanisms to safeguard user accounts and reservations. 
-
-Reservation Management: Detailed reservation information, including passenger details and flight itinerary, is accessible. 
-
-There are some Screenshots of this Project:- 
-
+ *) Flight Search and Booking:               *) RESTful API Integration: 
+ *) Reservation Management:                  *) Database Persistence:   
+ *) User Authentication: 
+ There are some Screenshots of this Project:- 
 ![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
 ![start_check_in 6](https://github.com/adarsh03108/flight_reservation/assets/155520119/e146f77d-c2e9-4b11-91db-415434725e91)
 ![list_of_flights 3](https://github.com/adarsh03108/flight_reservation/assets/155520119/aadcdfd0-4a9a-4b1d-9ec7-b2e25f6fe7d7)
