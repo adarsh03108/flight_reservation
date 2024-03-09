@@ -4,10 +4,15 @@
  
 KEY FEATURES: 
  *) Flight Search and Booking  
+
  *) RESTful API Integration
- *) Reservation Management   
+ 
+ *) Reservation Management  
+ 
  *) Database Persistence  
+ 
  *) User Authentication 
+ 
  There are some Screenshots of this Project:- 
 ![flight_login 1](https://github.com/adarsh03108/flight_reservation/assets/155520119/c0911145-c74a-4c56-9b28-07b2769717fa)
 ![start_check_in 6](https://github.com/adarsh03108/flight_reservation/assets/155520119/e146f77d-c2e9-4b11-91db-415434725e91)
